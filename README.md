@@ -1,6 +1,6 @@
 ## Fala, meu nome é Berg!
 
-Tenho 20 anos e sou estudante do curso de Sistemas para Internet;
+Sou estudante do curso de Sistemas para Internet;
 sou desenvolvedor back-end NestJS com TypeScript, porém ultimamente tenho usado também Laravel.
 
 <div>
