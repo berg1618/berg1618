@@ -4,7 +4,6 @@ Sou estudante do curso de Sistemas para Internet;
 sou desenvolvedor back-end NestJS com TypeScript, porém ultimamente tenho usado também Laravel.
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=berg1618&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berg1618&theme=dracula"/>
 </div>
 
