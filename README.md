@@ -1,10 +1,9 @@
 ## Fala, meu nome é Berg!
 
-Sou estudante do curso de Sistemas para Internet;
-sou desenvolvedor back-end NestJS com TypeScript, porém ultimamente tenho usado também Laravel.
-
+<h4 align="center"> Sou desenvolvedor back-end Node com TypeScript, Laravel e tenho me aventurado por novas tecnologias.
+</h4>
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berg1618&theme=dracula"/>
+  <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berg1618&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
